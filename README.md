@@ -15,6 +15,9 @@ http://antirez.com/news/108
 ## 常用命令
 
 是否安装了 C 编译器：`cc --version`
+
 是否安装了 make: `make -v`
+
 编译：`make`
+
 执行：`./editor`
