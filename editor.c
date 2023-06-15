@@ -136,7 +136,6 @@ void initEditor(void)
 int main(void)
 {
     enableRawMode();
-
     initEditor();
 
     while (1)
